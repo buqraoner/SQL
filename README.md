@@ -1,2 +1,4 @@
 # SQL
-SQL HomeWorks
+
+
+## Patika üzerinden aldığım SQL Eğitimi
