@@ -3,7 +3,7 @@
 
 
 SELECT  * FROM  film
-HERE title LIKE '%n'
+WHERE title LIKE '%n'
 ORDER BY length DESC limit 5
 
 
