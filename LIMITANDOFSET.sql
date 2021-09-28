@@ -12,15 +12,6 @@ LIMIT 1;
 
 
 
-
-
-
-
-
-
-
-
-
 --SELECT * FROM country
 --İlk 5 vriyi gçmk için ofset
 --OFFSET 6
