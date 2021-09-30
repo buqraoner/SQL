@@ -1,4 +1,4 @@
 # SQL
 
 
-## Patika üzerinden aldığım SQL Eğitimi
+## Patika ve BTK  üzerinden aldığım SQL Eğitimi
