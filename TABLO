@@ -1,5 +1,0 @@
-CREATE TABLE <table.name>{
-
-<column_name <data_type> <constraint>,
-<column_name> <data_type> <constraint>;
-}
