@@ -1,9 +1,8 @@
 
 <div style="color: red; text-align: center;">
-    Patika ve BTK Akademi üzerinden aldığım
+ Patika ve BTK Akademi üzerinden aldığım
 
-    SQL Eğitimi
-
+ SQL Eğitimi
 
 </div>
 
