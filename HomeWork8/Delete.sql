@@ -1,0 +1,2 @@
+DELETE FROM employee
+WHERE ID >=45 ;
